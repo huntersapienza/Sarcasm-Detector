@@ -43,7 +43,7 @@ Across the scope of the project, we touch upon various components of our data sc
 
 ## Findings
 
-<img src='Images/article_compostition.png'>
+<img src='Images/article_composition.png'>
 
 Within our exploration of over 26,000 article headlines, we discovered the following:
 * Our dataset was comprised of 43.9% sarcastic articles and 56.1% non-sarcastic articles.
