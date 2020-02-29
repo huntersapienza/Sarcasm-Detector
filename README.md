@@ -43,6 +43,8 @@ Across the scope of the project, we touch upon various components of our data sc
 
 ## Findings
 
+<img src='Images/article_compostition.png'>
+
 Within our exploration of over 26,000 article headlines, we discovered the following:
 * Our dataset was comprised of 43.9% sarcastic articles and 56.1% non-sarcastic articles.
 * Across all headlines, there were over 280,000 tokens and over 29,000 unique tokens.
@@ -62,4 +64,4 @@ When modeling the data, we found:
 
 Future work within this field may involve training models that are able to differentiate between real news and fake news. While the validity and objectivity of news remains a matter of opinion, no matter which way you lean, our media has become more and more subjective and influenced by bias, whether from those biases of the brodcasting network or the ways in which technology employs as usage data to feed us content that further supports our preexisting beliefs. These practices further fortify the political barriers that divide our nation, and thus, measures that aide in the transparency and true objectivity of the state of our government and society will enable us to properly tackle the issues that we face in the 21st century. While our project here scratches the surface of language processing and NLP data management, the possibilities for future work within this arena are endless.
 
-<iframe src="https://giphy.com/embed/7A4iGSv5ncnLxUfGjZ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/clapping-sarcastic-pelosi-7A4iGSv5ncnLxUfGjZ">via GIPHY</a></p>
+<img src='Images/pelosi.gif'>
